@@ -1,0 +1,44 @@
+title: Banana Blog
+email:
+description: >-
+  AIの習得練習とその結果のブログ
+
+url: "https://babananaomk.github.io"
+baseurl: "/ghp_site"
+
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+
+# ===== 投稿のデフォルトレイアウト設定 =====
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# ===== Sassを確実に有効化（念のため）=====
+sass:
+  style: compressed
+
+# ===== Exclude（そのまま保持）=====
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
