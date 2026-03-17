@@ -4,7 +4,7 @@ description: >-
   AIの習得練習とその結果のブログ
 
 url: "https://babananaomk.github.io"
-baseurl: "/ghp_site"
+baseurl: "/tadoku"
 
 twitter_username: jekyllrb
 github_username: jekyll
