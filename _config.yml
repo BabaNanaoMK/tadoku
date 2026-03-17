@@ -18,6 +18,9 @@ plugins:
 header_pages:
   - about.md
 
+# ===== 未来の投稿も表示（タイムゾーン対応）=====
+future: true
+
 # ===== 投稿のデフォルトレイアウト設定 =====
 defaults:
   - scope:
