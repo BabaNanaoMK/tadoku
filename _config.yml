@@ -33,6 +33,12 @@ defaults:
 sass:
   style: compressed
 
+# ===== Pages collection =====
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
 # ===== Exclude（そのまま保持）=====
 # exclude:
 #   - .sass-cache/
