@@ -5,22 +5,16 @@ title: Blog
 
 # こんにちは、バナナ です
 
-AIに関するよしなしごとを徒然なるままに記載します。
+英語多読に関するよしなしごとを徒然なるままに記載します。
 
 ## カテゴリ
 
 <ul class="category-list">
-  <li><a href="{{ '/categories/chatgpt/' | relative_url }}">ChatGPT</a></li>
-  <li><a href="{{ '/categories/gemini/' | relative_url }}">Gemini</a></li>
-  <li><a href="{{ '/categories/claude/' | relative_url }}">Claude</a></li>
-  <li><a href="{{ '/categories/codex_cli/' | relative_url }}">Codex CLI</a></li>
-  <li><a href="{{ '/categories/gemini_cli/' | relative_url }}">Gemini CLI</a></li>
-  <li><a href="{{ '/categories/antigravity/' | relative_url }}">Antigravity</a></li>
-  <li><a href="{{ '/categories/gas/' | relative_url }}">GAS</a></li>
-  <li><a href="{{ '/categories/github_pages/' | relative_url }}">GitHub Pages</a></li>
-  <li><a href="{{ '/categories/jekyll/' | relative_url }}">Jekyll</a></li>
-  <li><a href="{{ '/categories/kindle_publishing/' | relative_url }}">Kindle Publishing</a></li>
-  <li><a href="{{ '/categories/others/' | relative_url }}">others</a></li>
+  <li><a href="{{ '/categories/tadoku/' | relative_url }}">多読</a></li>
+  <li><a href="{{ '/categories/tacho/' | relative_url }}">多聴</a></li>
+  <li><a href="{{ '/categories/takan/' | relative_url }}">多観</a></li>
+  <li><a href="{{ '/categories/shadowing/' | relative_url }}">シャドーイング</a></li>
+  <li><a href="{{ '/categories/others/' | relative_url }}">他</a></li>
 </ul>
 
 ## Blog
