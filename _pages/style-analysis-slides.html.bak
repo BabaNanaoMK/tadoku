@@ -286,7 +286,7 @@ permalink: /style-analysis-slides/
   </div>
 
   <!-- Slide 1: Table of Contents -->
-  <div class="slide slide--content" data-index="2">
+  <div class="slide slide--content" data-index="1">
     <div class="slide-body">
       <div class="section-label">Contents</div>
       <h2>目次</h2>
@@ -311,7 +311,7 @@ permalink: /style-analysis-slides/
   </div>
 
   <!-- Slide 2: 語彙の傾向 -->
-  <div class="slide slide--content" data-index="3">
+  <div class="slide slide--content" data-index="2">
     <div class="slide-body">
       <div class="section-label">Section 1</div>
       <h2>語彙の傾向</h2>
@@ -323,11 +323,11 @@ permalink: /style-analysis-slides/
       <h3>言い換えを好む</h3>
       <p>"soul" と "nature"、"picture" と "portrait" と "canvas" の使い分け。語彙の変化自体が装飾になっている。</p>
     </div>
-    <div class="slide-number">3 / 16</div>
+    <div class="slide-number">2 / 15</div>
   </div>
 
   <!-- Slide 2: 文の長さとリズム -->
-  <div class="slide slide--content" data-index="3">
+  <div class="slide slide--content" data-index="2">
     <div class="slide-body">
       <div class="section-label">Section 2</div>
       <h2>文の長さとリズム</h2>
@@ -340,11 +340,11 @@ permalink: /style-analysis-slides/
       <h3>プリフェースは別物</h3>
       <p>短文アフォリズムの連打——<em>The artist is the creator of beautiful things. / All art is quite useless.</em>——ここだけ意図的にリズムが鋭い。</p>
     </div>
-    <div class="slide-number">4 / 16</div>
+    <div class="slide-number">3 / 15</div>
   </div>
 
   <!-- Slide 3: 構文パターン -->
-  <div class="slide slide--content" data-index="4">
+  <div class="slide slide--content" data-index="3">
     <div class="slide-body">
       <div class="section-label">Section 3</div>
       <h2>文の構文パターン</h2>
@@ -367,11 +367,11 @@ permalink: /style-analysis-slides/
       </div>
       <p style="margin-top:0.8rem">これらは語彙より構文の特徴として、模写のポイントになる。</p>
     </div>
-    <div class="slide-number">5 / 16</div>
+    <div class="slide-number">4 / 15</div>
   </div>
 
   <!-- Slide 4: 時制 -->
-  <div class="slide slide--content" data-index="5">
+  <div class="slide slide--content" data-index="4">
     <div class="slide-body">
       <div class="section-label">Section 4</div>
       <h2>時制の使い方</h2>
@@ -384,11 +384,11 @@ permalink: /style-analysis-slides/
       <blockquote><em>Actual life was chaos, but there was something terribly logical in the imagination.</em></blockquote>
       <p>時制の切り替え自体が「物語の語り」と「真理の述べ方」の境界線を示している。</p>
     </div>
-    <div class="slide-number">6 / 16</div>
+    <div class="slide-number">5 / 15</div>
   </div>
 
   <!-- Slide 5: 態 -->
-  <div class="slide slide--content" data-index="6">
+  <div class="slide slide--content" data-index="5">
     <div class="slide-body">
       <div class="section-label">Section 5</div>
       <h2>能動態・受動態のバランス</h2>
@@ -404,11 +404,11 @@ permalink: /style-analysis-slides/
         <li>"there was/seemed"：風景・状態の静的提示</li>
       </ul>
     </div>
-    <div class="slide-number">7 / 16</div>
+    <div class="slide-number">6 / 15</div>
   </div>
 
   <!-- Slide 6: 視点 -->
-  <div class="slide slide--content" data-index="7">
+  <div class="slide slide--content" data-index="6">
     <div class="slide-body">
       <div class="section-label">Section 6</div>
       <h2>視点の置き方</h2>
@@ -421,11 +421,11 @@ permalink: /style-analysis-slides/
       <p>（Henryの台詞だが、この種の断言がWilde世界の語り口として全体を染める）</p>
       <div class="key-point"><strong>カメラの距離は自在に移動する。</strong><br>描写シーンでは「やや遠い外側」から、思索シーンでは「内面深く」へ。</div>
     </div>
-    <div class="slide-number">8 / 16</div>
+    <div class="slide-number">7 / 15</div>
   </div>
 
   <!-- Slide 7: 描写の重点 -->
-  <div class="slide slide--content" data-index="8">
+  <div class="slide slide--content" data-index="7">
     <div class="slide-body">
       <div class="section-label">Section 7</div>
       <h2>描写の重点</h2>
@@ -443,11 +443,11 @@ permalink: /style-analysis-slides/
       <h3>インテリアと調度品の描写</h3>
       <p>階級・趣味・時代が物を通して語られる：<em>Persian saddle-bags, Venetian coverlet, Italian cassone, Florentine frame</em></p>
     </div>
-    <div class="slide-number">9 / 16</div>
+    <div class="slide-number">8 / 15</div>
   </div>
 
   <!-- Slide 8: ダイアログ -->
-  <div class="slide slide--content" data-index="9">
+  <div class="slide slide--content" data-index="8">
     <div class="slide-body">
       <div class="section-label">Section 8</div>
       <h2>ダイアログのスタイル</h2>
@@ -463,11 +463,11 @@ permalink: /style-analysis-slides/
       </ul>
       <p>この対比が会話のリズムを作っている。</p>
     </div>
-    <div class="slide-number">10 / 16</div>
+    <div class="slide-number">9 / 15</div>
   </div>
 
   <!-- Slide 9: 抽象と具体 -->
-  <div class="slide slide--content" data-index="10">
+  <div class="slide slide--content" data-index="9">
     <div class="slide-body">
       <div class="section-label">Section 9</div>
       <h2>抽象と具体のバランス</h2>
@@ -484,11 +484,11 @@ permalink: /style-analysis-slides/
         <li>↓ 哲学・思想・美学への跳躍</li>
       </ul>
     </div>
-    <div class="slide-number">11 / 16</div>
+    <div class="slide-number">10 / 15</div>
   </div>
 
   <!-- Slide 10: 比喩・イメージ -->
-  <div class="slide slide--content" data-index="11">
+  <div class="slide slide--content" data-index="10">
     <div class="slide-body">
       <div class="section-label">Section 10</div>
       <h2>比喩・イメージの癖</h2>
@@ -513,11 +513,11 @@ permalink: /style-analysis-slides/
         </div>
       </div>
     </div>
-    <div class="slide-number">12 / 16</div>
+    <div class="slide-number">11 / 15</div>
   </div>
 
   <!-- Slide 11: トーン -->
-  <div class="slide slide--content" data-index="12">
+  <div class="slide slide--content" data-index="11">
     <div class="slide-body">
       <div class="section-label">Section 11</div>
       <h2>トーン</h2>
@@ -532,11 +532,11 @@ permalink: /style-analysis-slides/
       <blockquote><em>Out of the black cave of time, terrible and swathed in scarlet, rose the image of his sin.</em></blockquote>
       <div class="key-point">同じ「scarlet（緋色）」が、前半では美を表し、後半では罪を表す。</div>
     </div>
-    <div class="slide-number">13 / 16</div>
+    <div class="slide-number">12 / 15</div>
   </div>
 
   <!-- Slide 12: 観察シートまとめ -->
-  <div class="slide slide--summary" data-index="13">
+  <div class="slide slide--summary" data-index="12">
     <div class="slide-body">
       <div class="section-label">Summary</div>
       <h2>観察シート（まとめ）</h2>
@@ -559,11 +559,11 @@ permalink: /style-analysis-slides/
         </tbody>
       </table>
     </div>
-    <div class="slide-number">14 / 16</div>
+    <div class="slide-number">13 / 15</div>
   </div>
 
   <!-- Slide 13: 模写の注意点 やること -->
-  <div class="slide slide--notes" data-index="14">
+  <div class="slide slide--notes" data-index="13">
     <div class="slide-body">
       <div class="section-label">Writing Notes</div>
       <h2>模写する上での注意点</h2>
@@ -590,11 +590,11 @@ permalink: /style-analysis-slides/
         </div>
       </div>
     </div>
-    <div class="slide-number">15 / 16</div>
+    <div class="slide-number">14 / 15</div>
   </div>
 
   <!-- Slide 14: 宙吊りの美学 -->
-  <div class="slide slide--notes" data-index="15">
+  <div class="slide slide--notes" data-index="14">
     <div class="slide-body">
       <div class="section-label">Writing Notes — Core Principle</div>
       <h2>Wildeの世界の見方</h2>
@@ -605,7 +605,7 @@ permalink: /style-analysis-slides/
       <p>この<strong>「宙吊りの美学」</strong>が、単なる語彙や構文を超えた<br>Wildeの文体の本体である。</p>
       <div style="margin-top:2rem; text-align:center; color:#6b4e2a; font-size:1.5rem">✦ ✦ ✦</div>
     </div>
-    <div class="slide-number">16 / 16</div>
+    <div class="slide-number">15 / 15</div>
   </div>
 
 </div>
